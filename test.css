@@ -8,7 +8,7 @@ body, html {
     overflow-x: hidden;
     justify-content: center;
     align-items: center;
-    background-color: #504444;
+    background-color: #ffffff;
     font-family: Arial, sans-serif;
   }
   
@@ -58,5 +58,10 @@ body, html {
   }
   #grid6 {
     grid-row: span 2;
+  }
+  #problemer {
+    background-color: #ffffff;
+    align-items: center;
+
   }
   
