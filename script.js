@@ -6,8 +6,8 @@
     // Grid 1 and 2 is working but i want them to zoom to fit the width
     // Can change the orientation of the word documents in SharePoint to better fit the screen, can also try to save as PDF to visualize the difference. 
     const gridContent = [
-      { id: "grid1", url: "https://elkem.sharepoint.com/sites/T.RAN-TappingogEtterbehandling/_layouts/15/embed.aspx?UniqueId=66f03f62-e9c0-4649-9dd6-117247089f5d#view=FitH"
-        //id: "grid1", url: "https://elkem.sharepoint.com/sites/T.RAN-TappingogEtterbehandling/_layouts/15/Doc.aspx?sourcedoc={11cd9663-4eac-4aec-b6ea-5c805e551377}&amp;action=embedview" 
+      { //id: "grid1", url: "https://elkem.sharepoint.com/sites/T.RAN-TappingogEtterbehandling/_layouts/15/embed.aspx?UniqueId=66f03f62-e9c0-4649-9dd6-117247089f5d#view=FitH"
+        id: "grid1", url: "https://elkem.sharepoint.com/sites/T.RAN-TappingogEtterbehandling/_layouts/15/Doc.aspx?sourcedoc={11cd9663-4eac-4aec-b6ea-5c805e551377}&amp;action=embedview"
         },
       { id: "grid2", url: "https://elkem.sharepoint.com/sites/T.RAN-TappingogEtterbehandling/_layouts/15/embed.aspx?UniqueId=6aad5651-48b0-4159-89b6-2ef42ea91144" },
       { id: "grid3", url: "img/prosess.PNG" },
