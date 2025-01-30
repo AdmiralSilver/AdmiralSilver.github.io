@@ -13,7 +13,7 @@
       { id: "grid3", url: "img/prosess.PNG" },
       { id: "grid4", url: "https://planner.cloud.microsoft/webui/plan/5chRMHepAkaLt0GsUBkItZYAAQ_G/view/board?tid=80db3d04-4941-4992-9b01-cbe786893361" },
       { id: "grid5", url: "https://app.powerbi.com/reportEmbed?reportId=92780dd7-a4f8-4c35-a26a-a1255039429c&autoAuth=true&ctid=80db3d04-4941-4992-9b01-cbe786893361" },
-      //{ id: "grid6", url: "https://app.infoskjermen.no/LAO261" },
+      { id: "grid6", url: "https://app.powerbi.com/reportEmbed?reportId=10cddf7c-7389-4ef0-b0bd-95c2bb3a4dce&autoAuth=true&ctid=80db3d04-4941-4992-9b01-cbe786893361" },
       //{ id: "grid7", url: "img/øser.PNG" }
     ];
   
